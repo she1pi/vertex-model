@@ -7,7 +7,7 @@ This module investigates the global equilibrium shapes of organoids under varyin
 This module simulates local perturbations, specifically laser ablation of a single cell or group of cells, and the subsequent topological healing process.
 # 3. Osmotic Pressure Change (osm_change)
 This module explores the dynamic response of organoids to changes in internal hydrostatic pressure (osmotic shock).   
-Prerequisites:
+# Prerequisites:
 MATLAB R2018b or later.
 Ensure all .m files are in the same directory or added to the MATLAB path.
 Helper functions like intital.m, quad_area.m, and compute_total_energy.m must be present.
